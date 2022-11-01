@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
-function HotelTable(props) {
+function UHotelTable(props) {
   return (
     <div>
       <table className="table table-striped table-hover">
@@ -30,7 +30,7 @@ function HotelTable(props) {
   );
 }
 
-const AddHotel = (props) => {
+const UpdateHotel = (props) => {
   const [Id, setId] = useState();
   const [Name, setName] = useState();
   const [Address, setAddress] = useState();
@@ -39,8 +39,13 @@ const AddHotel = (props) => {
 
   function onClick() {
     const object = { Id, Name, Address, Rating };
+    if(props.Id===Id){
+        const index = props.findIndex((p) => p.Id === Id);
+        props.splice(index,1);
+    }
     setArray([...array, object]);
-    // setId("");
+    window.alert("Updated Successfully..!");
+    
   }
 
   return (
@@ -53,8 +58,8 @@ const AddHotel = (props) => {
         <Link to="/AdminHome">
           <h5 className="navbar-brand text-white">Admin Dashboard</h5>
         </Link>
-        <Link to="/UpdateHotel">
-          <h5 className="navbar-brand text-white">Update Hotel Master</h5>
+        <Link to="/HotelMaster">
+          <h5 className="navbar-brand text-white"> Hotel Master</h5>
         </Link>
         <Link to="/BookingList">
           <h5 className="navbar-brand text-white">Bookings</h5>
@@ -67,8 +72,7 @@ const AddHotel = (props) => {
         </Link>
       </nav>
 
-      <div className="text-center m-5"><h1>Add Hotel</h1></div>
-
+      <div className="text-center m-5"><h1>Update Hotel</h1></div>
       <div className="inputBody m-5">
         <div className="input-group">
           <span className="input-group-text">
@@ -136,9 +140,9 @@ const AddHotel = (props) => {
         </div>
       </div>
       <div className="text-center"><h1>Hotel List</h1></div>
-      <div className="m-3">{HotelTable(array)}</div>
+      <div className="m-3">{UHotelTable(array)}</div>
     </div>
   );
 };
 
-export default AddHotel;
+export default UpdateHotel;

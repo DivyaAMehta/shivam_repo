@@ -43,6 +43,9 @@ const BookingList = (props) => {
         <Link to="/HotelMaster">
           <h6 className="navbar-brand text-white">Hotel Master</h6>
         </Link>
+        <Link to="/UpdateHotel">
+          <h5 className="navbar-brand text-white">Update Hotel Master</h5>
+        </Link>
         <Link to="/CanceledBookingList">
           <h6 className="navbar-brand text-white">Canceled Bookings</h6>
         </Link>
