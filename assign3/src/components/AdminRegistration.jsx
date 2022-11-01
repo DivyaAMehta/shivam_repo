@@ -3,6 +3,7 @@ import { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 
 function OwnerRegistration() {
+  
   const [RestaurantId, setRestaurantId] = useState("");
   const [ownerName, setownerName] = useState("");
   const [emailId, setemailId] = useState("");

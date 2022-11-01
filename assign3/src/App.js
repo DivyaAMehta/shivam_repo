@@ -6,6 +6,7 @@ import AdminRegistration from "./components/AdminRegistration";
 import BookingList from "./components/BookingList";
 import BookTable from "./components/BookTable";
 import CanceledBookingList from "./components/CanceledBookingList";
+import CancelReservation from "./components/CancelReservation";
 import Home from "./components/Home";
 import HotelList from "./components/HotelList";
 import HotelMaster from "./components/HotelMaster";
@@ -108,20 +109,20 @@ function App() {
       No_Of_Table:4,
     },
     {
-      UId:2,
-      Id:1,
+      UId:1,
+      Id:2,
       Name:"Pankaj",
       No_Of_Table:5,
     },
     {
-      UId:3,
-      Id:1,
+      UId:1,
+      Id:3,
       Name:"Roshan",
       No_Of_Table:2,
     },
     {
       UId:1,
-      Id:2,
+      Id:4,
       Name:"Raj",
       No_Of_Table:4,
     },
@@ -143,6 +144,7 @@ function App() {
         <Route path="/BookingList" element={<BookingList bookingData={bookingData}/>}></Route>
         <Route path="/CanceledBookingList" element={<CanceledBookingList canceledbookingData={canceledbookingData}/>}></Route>
         <Route path="/UsersList" element={<UsersList usersData={usersData}/>}></Route>
+        <Route path="/CancelReservation" element={<CancelReservation canceledbookingData={canceledbookingData}/>}></Route>
       </Routes>
     </BrowserRouter>
   );

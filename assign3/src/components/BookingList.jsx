@@ -52,7 +52,7 @@ const BookingList = (props) => {
       </nav>
 
       <div align="center" className="m-5">
-        <h1> Booking List</h1>
+        <h1> Bookings</h1>
       </div>
       <div>
         {BookDisplay(props.bookingData)}

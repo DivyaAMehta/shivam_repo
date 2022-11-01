@@ -52,7 +52,7 @@ const CanceledBookingList = (props) => {
       </nav>
 
       <div align="center" className="m-5">
-        <h1>Canceled Booking List</h1>
+        <h1>Canceled Bookings</h1>
       </div>
       <div>
         {CBDisplay(props.canceledbookingData)}

@@ -23,7 +23,7 @@ const AdminHome = () => {
         </Link>
       </nav>
 
-      <div className="d-flex flex-row bd-highlight mb-3 ">
+      <div className="d-flex flex-row bd-highlight bg-info bg-gradient p-5 mx-auto ">
         <div className="col align-self-center ">
           <h1 align="center">Welcome To Admin Home!!!</h1>
         </div>

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
-function BooKingTable(props) {
+function CBooKingTable(props) {
   return (
     <div>
       <table className="table table-striped table-hover">
@@ -30,12 +30,12 @@ function BooKingTable(props) {
   );
 }
 
-const BookTable = (props) => {
+const CancelReservation = (props) => {
   const [UId, setUId] = useState();
   const [Id, setId] = useState();
   const [Name, setName] = useState();
   const [No_Of_Table, setNo_Of_Table] = useState();
-  const [array, setArray] = useState([...props.bookingData]);
+  const [array, setArray] = useState([...props.canceledbookingData]);
 
   function onClick() {
     const object = { UId, Id, Name, No_Of_Table };
@@ -56,12 +56,12 @@ const BookTable = (props) => {
         <Link to="/HotelList">
           <h5 className="navbar-brand text-white">Hotel List </h5>
         </Link>
-        <Link to="/CancelReservation">
-          <h5 className="navbar-brand text-white">Cancel Reservation </h5>
+        <Link to="/BookTable">
+          <h5 className="navbar-brand text-white">Booking </h5>
         </Link>
       </nav>
-      
-      <div className="text-center m-5"><h1>Book Table</h1></div>
+
+      <div className="text-center m-5"><h1>Cancel Reserved Table</h1></div>
       <div className="inputBody m-5">
         <div className="input-group">
           <span className="input-group-text">
@@ -128,10 +128,10 @@ const BookTable = (props) => {
           </button>
         </div>
       </div>
-      <div className="text-center m-5"><h1>Booked Table List</h1></div>
-      <div className="m-3">{BooKingTable(array)}</div>
+      <div className="text-center m-5"><h1>Canceled Reservation List</h1></div>
+      <div className="m-3">{CBooKingTable(array)}</div>
     </div>
   );
 };
 
-export default BookTable;
+export default CancelReservation;

@@ -54,7 +54,7 @@ const UsersList = (props) => {
       </nav>
 
       <div align="center" className="m-5">
-        <h1>User List</h1>
+        <h1>Users</h1>
       </div>
       <div>
         {UserDisplay(props.usersData)}

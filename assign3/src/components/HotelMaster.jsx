@@ -64,6 +64,8 @@ const AddHotel = (props) => {
         </Link>
       </nav>
 
+      <div className="text-center m-5"><h1>Add Hotel</h1></div>
+
       <div className="inputBody m-5">
         <div className="input-group">
           <span className="input-group-text">
@@ -130,6 +132,7 @@ const AddHotel = (props) => {
           </button>
         </div>
       </div>
+      <div className="text-center"><h1>Hotel List</h1></div>
       <div className="m-3">{HotelTable(array)}</div>
     </div>
   );
