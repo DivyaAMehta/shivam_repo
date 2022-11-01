@@ -10,7 +10,6 @@ import CancelReservation from "./components/CancelReservation";
 import Home from "./components/Home";
 import HotelList from "./components/HotelList";
 import HotelMaster from "./components/HotelMaster";
-// import UpdateHotel from "./components/UpdateHotel";
 import UserHome from "./components/UserHome";
 import UserRegistration from "./components/UserRegistration";
 import UsersList from "./components/UsersList";
@@ -138,7 +137,6 @@ function App() {
         <Route path="/AdminRegistration" element={<AdminRegistration />}></Route>
         <Route path="/AdminLogin" element={<AdminLogin />}></Route>
         <Route path="/HotelMaster" element={<HotelMaster hotelData={hotelData}/>}></Route>
-        {/* <Route path="/UpdateHotel" element={<UpdateHotel />}></Route> */}
         <Route path="/HotelList" element={<HotelList hotelData={hotelData}/>}></Route>
         <Route path="/BookTable" element={<BookTable bookingData={bookingData} />}></Route>
         <Route path="/BookingList" element={<BookingList bookingData={bookingData}/>}></Route>
