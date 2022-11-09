@@ -13,6 +13,8 @@ namespace Question2
             // d.division();
             Stackoverflow s = new Stackoverflow();
             //s.demo();
+            GenericException g = new GenericException();
+            g.airthmetic();
         }
     }
 }
