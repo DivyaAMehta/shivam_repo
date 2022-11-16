@@ -1,0 +1,17 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\bin\Debug\net6.0-windows\AirthmeticCoreApp.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\bin\Debug\net6.0-windows\AirthmeticCoreApp.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\bin\Debug\net6.0-windows\AirthmeticCoreApp.runtimeconfig.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\bin\Debug\net6.0-windows\AirthmeticCoreApp.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\bin\Debug\net6.0-windows\AirthmeticCoreApp.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.Form1.resources
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.csproj.GenerateResource.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\refint\AirthmeticCoreApp.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.genruntimeconfig.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticCoreApp\obj\Debug\net6.0-windows\ref\AirthmeticCoreApp.dll

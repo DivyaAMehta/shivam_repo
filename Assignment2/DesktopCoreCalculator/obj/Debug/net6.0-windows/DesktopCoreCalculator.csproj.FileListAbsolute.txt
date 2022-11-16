@@ -1,0 +1,17 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\bin\Debug\net6.0-windows\DesktopCoreCalculator.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\bin\Debug\net6.0-windows\DesktopCoreCalculator.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\bin\Debug\net6.0-windows\DesktopCoreCalculator.runtimeconfig.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\bin\Debug\net6.0-windows\DesktopCoreCalculator.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\bin\Debug\net6.0-windows\DesktopCoreCalculator.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\DesktopCoreCalculator.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\AirthmeticCoreApp.Form1.resources
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\DesktopCoreCalculator.csproj.GenerateResource.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\DesktopCoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\DesktopCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\DesktopCoreCalculator.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\DesktopCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\DesktopCoreCalculator.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\refint\DesktopCoreCalculator.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\DesktopCoreCalculator.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\DesktopCoreCalculator.genruntimeconfig.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment2\AirthmeticCoreApp\obj\Debug\net6.0-windows\ref\DesktopCoreCalculator.dll
