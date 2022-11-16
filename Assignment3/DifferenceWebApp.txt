@@ -1,0 +1,8 @@
+1..net framework contain model,view folder and their files 
+	whereas .net core does not contain such folders or their files.
+
+2..net framework contain different configuration source files
+	whereas .net core does not contain any configuration source files. 
+
+3..net framework contain different references 
+	whereas .net core contain different dependencies.

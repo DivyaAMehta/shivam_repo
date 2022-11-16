@@ -1,0 +1,6 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticFrameworkLib\bin\Debug\ArithmeticFrameworkLib.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticFrameworkLib\bin\Debug\ArithmeticFrameworkLib.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticFrameworkLib\obj\Debug\ArithmeticFrameworkLib.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticFrameworkLib\obj\Debug\ArithmeticFrameworkLib.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticFrameworkLib\obj\Debug\ArithmeticFrameworkLib.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticFrameworkLib\obj\Debug\ArithmeticFrameworkLib.pdb

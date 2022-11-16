@@ -1,0 +1,10 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\bin\Debug\netcoreapp3.1\ArithmeticCoreLib.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\bin\Debug\netcoreapp3.1\ArithmeticCoreLib.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\bin\Debug\netcoreapp3.1\ArithmeticCoreLib.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\obj\Debug\netcoreapp3.1\ArithmeticCoreLib.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\obj\Debug\netcoreapp3.1\ArithmeticCoreLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\obj\Debug\netcoreapp3.1\ArithmeticCoreLib.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\obj\Debug\netcoreapp3.1\ArithmeticCoreLib.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\obj\Debug\netcoreapp3.1\ArithmeticCoreLib.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\obj\Debug\netcoreapp3.1\ArithmeticCoreLib.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\ArithmeticCoreLib\obj\Debug\netcoreapp3.1\ArithmeticCoreLib.pdb

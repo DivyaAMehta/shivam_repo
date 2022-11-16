@@ -1,0 +1,10 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\bin\Release\netstandard2.0\Arithmetic.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\bin\Release\netstandard2.0\Arithmetic.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\bin\Release\netstandard2.0\Arithmetic.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\obj\Release\netstandard2.0\Arithmetic.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\obj\Release\netstandard2.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\obj\Release\netstandard2.0\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\obj\Release\netstandard2.0\Arithmetic.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\obj\Release\netstandard2.0\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\obj\Release\netstandard2.0\Arithmetic.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\Arithmetic\obj\Release\netstandard2.0\Arithmetic.pdb
