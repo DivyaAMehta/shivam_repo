@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XaOewG0eL0EZsOfXxt0I6oYXChhyxRr+vAPVTiSxre/JD7HMvEYaXE0//xbPswEQPhr8LezjBKrm6ytJTYlwkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shivam.Yadav\\Desktop\\New folder\\C#\\.Net,.Net Core6\\Assignment3\\ArithmeticStandardLib\\ArithmeticStandardLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shivam.Yadav\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shivam.Yadav\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

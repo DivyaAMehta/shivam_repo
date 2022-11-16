@@ -1,0 +1,7 @@
+1.Core Library is useful for only core projects
+	whereas framework library is useful for only framework projects
+		whereas standard library is useful for all type of projects.
+
+2.Core Library and Framework library doesnot published 
+	whereas standard library can published to generate nuget package in different projects
+  and install such library for specific purpose.
