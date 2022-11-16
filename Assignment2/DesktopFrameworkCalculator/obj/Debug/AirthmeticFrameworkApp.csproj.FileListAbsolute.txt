@@ -1,0 +1,11 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\bin\Debug\AirthmeticFrameworkApp.exe.config
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\bin\Debug\AirthmeticFrameworkApp.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\bin\Debug\AirthmeticFrameworkApp.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\obj\Debug\AirthmeticFrameworkApp.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\obj\Debug\AirthmeticFrameworkApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\obj\Debug\AirthmeticFrameworkApp.Form1.resources
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\obj\Debug\AirthmeticFrameworkApp.Properties.Resources.resources
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\obj\Debug\AirthmeticFrameworkApp.csproj.GenerateResource.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\obj\Debug\AirthmeticFrameworkApp.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\obj\Debug\AirthmeticFrameworkApp.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\AirthmeticFrameworkApp\obj\Debug\AirthmeticFrameworkApp.pdb
