@@ -1,0 +1,8 @@
+1..net framework contain Properties folder which stores assembly.cs file 
+	whereas .net core does not contain properties folder.
+
+2..net framework contain configuration source file named as app
+	whereas .net core does not contain any configuration source file. 
+
+3..net framework contain different references 
+	whereas .net core contain different dependencies.
