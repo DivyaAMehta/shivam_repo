@@ -1,0 +1,15 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\bin\Debug\net6.0\Assign1.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\bin\Debug\net6.0\Assign1.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\bin\Debug\net6.0\Assign1.runtimeconfig.json
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\bin\Debug\net6.0\Assign1.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\bin\Debug\net6.0\Assign1.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\Assign1.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\Assign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\Assign1.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\Assign1.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\Assign1.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\Assign1.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\refint\Assign1.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\Assign1.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\Assign1.genruntimeconfig.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\Assign1\Assign1\obj\Debug\net6.0\ref\Assign1.dll
